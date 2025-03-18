@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Freelancer\PTPMHDT_PLAY_MXH\d\social\app\controllers\AuthController.java:68:25: no suitable method found for withSession(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m    method play.mvc.Result.withSession(play.mvc.Http.Session) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (actual and formal argument lists differ in length)[0m
+[0m[[0m[31merror[0m] [0m[0m    method play.mvc.Result.withSession(java.util.Map<java.lang.String,java.lang.String>) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (actual and formal argument lists differ in length)[0m
+[0m[[0m[31merror[0m] [0m[0mok(Json.newObject()[0m
+[0m[[0m[31merror[0m] [0m[0m                        .put("message", "Login successful"))[0m
+[0m[[0m[31merror[0m] [0m[0m                        .withSession[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
